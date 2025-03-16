@@ -1,0 +1,6 @@
+{
+    "SECRET_KEY": "your_secret_key_here",
+    "DATABASE_URI": "sqlite:///finance_manager.db",
+    "CURRENCY_API_KEY": "your_currency_api_key_here"
+  }
+  
